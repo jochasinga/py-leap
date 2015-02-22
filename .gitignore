@@ -52,3 +52,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# For local
+*~
+*#
+first.py
+hello.py
+hello_leap.py
+rand.py
+switch.py
+stall.py
+threads.py
+leaplet.py
