@@ -4,12 +4,6 @@ Collection of Leap Motion code in Python
 
 To start
 --------
-To use `Virtualenv`:
-```Bash
-
-$ . lenv/bin/activate
-
-```
 Install dependencies
 ```Bash
 
