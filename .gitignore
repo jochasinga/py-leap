@@ -56,11 +56,12 @@ target/
 # For local
 *~
 *#
-first.py
-hello.py
-hello_leap.py
-rand.py
-switch.py
-stall.py
-threads.py
-leaplet.py
+lenv/
+src/first.py
+src/hello.py
+src/hello_leap.py
+src/rand.py
+src/switch.py
+src/stall.py
+src/threads.py
+src/leaplet.py
