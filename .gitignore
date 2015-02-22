@@ -1,0 +1,14 @@
+*pyc
+
+# For local
+*~
+*#
+lenv/
+src/first.py
+src/hello.py
+src/hello_leap.py
+src/rand.py
+src/switch.py
+src/stall.py
+src/threads.py
+src/leaplet.py
